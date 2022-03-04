@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2018-06-14 17:28+0200\n"
+"Last-Translator: zeberil <pfrodrigues@sapo.pt>\n"
+"Language-Team: \n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.8\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid " kbit/s"
+msgstr " kbit/s"
+
+msgid "Audio:"
+msgstr "Áudio:"
+
+msgid "Background window"
+msgstr "Janela de fundo"
+
+msgid "Bitrate setup"
+msgstr "Visualizar o fluxo binário"
+
+msgid "Bitrate viewer"
+msgstr "Configurar visualizador de fluxo binário"
+
+msgid "Bitrate viewer setup"
+msgstr "Configuração de visualizador de fluxo binário"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "GUI needs a restart to apply changes!"
+msgstr "É necessário reiniciar a GUI para aplicar as mudanças!"
+
+msgid "Mode"
+msgstr "Modo"
+
+msgid "Restart bitrate viewer"
+msgstr "Reiniciar o visualizador de fluxo binário"
+
+msgid "Save/OK"
+msgstr "Salvar/OK"
+
+msgid "Show 'restart bitrate' in extensions menu"
+msgstr "Mostrar 'reinicio ao fluxo binário' no menu de extensões"
+
+msgid "Show bitrate for live service"
+msgstr "Mostrar o débito do fluxo binário nos serviços em directo"
+
+msgid "Start for type services"
+msgstr "Iniciar para os serviços tipo"
+
+msgid "Style skin"
+msgstr "Estilo do tema"
+
+msgid "Using bitrate in the skins with this plugin is not compatible!"
+msgstr "Usar o fluxo binário nos temas em que o plugin não é compatível!"
+
+msgid "Video:"
+msgstr "Vídeo:"
+
+msgid "X screen position"
+msgstr "Posição X no ecrã"
+
+msgid "Y screen position"
+msgstr "Posição Y no ecrã"
+
+msgid "Z screen position"
+msgstr "Posição Z no ecrã"
+
+msgid "all"
+msgstr "todos"
+
+msgid "as infobar"
+msgstr "como barra de informação"
+
+msgid "black"
+msgstr "negro"
+
+msgid "compact"
+msgstr "compacto"
+
+msgid "extension menu"
+msgstr "menu de extensões"
+
+msgid "full info"
+msgstr "informação completa"
+
+msgid "only DVB"
+msgstr "apenas DVB"
+
+msgid "transparent"
+msgstr "transparente"
